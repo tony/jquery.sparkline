@@ -30,8 +30,5 @@
     "download": "http://omnipotent.net/jquery.sparkline/#s-download",
     "dependencies": {
         "jquery": ">=1.4.3"
-    },
-    "scripts": {
-        "postinstall": "make all"
     }
 }
